@@ -11,3 +11,4 @@ The Jupyter notebook *spyder_notebook_behavioural tasks.py* (python v3.7.11) loa
 
 The Jupyter notebook *spyder_notebook_processing+energy densities.py* contains code to plot all non-CNO figures related to behaviour.
 
+See method section for specification of package versions used to generate the files.
